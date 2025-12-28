@@ -21,3 +21,5 @@ $(SRC_DIR)/%.o: $(SRC_DIR)/%.c $(DEPS)
 
 clean:
 	rm -f $(OBJ) $(TARGET)
+
+
